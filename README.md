@@ -49,7 +49,7 @@ SPA for searching countries using RESTCountries API
 ### ✅ Weather App
 Mini application for displaying current weather by city  
 **Stack:** JavaScript, HTML, CSS, API  
-🔗 Live: (add link)
+🔗 Live: https://myasoutovd-cloud.github.io/my-portfolio/projects/weather-explorer/
 
 ---
 
